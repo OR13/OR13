@@ -1,6 +1,6 @@
 **Orie Steele** (@OR13)
 
-_Developer — Architect — Co-editor W3C DID Spec Registries_
+_Developer — Architect_
 
 <a href="https://github.com/OR13"><img src="https://img.shields.io/github/followers/OR13.svg?label=@OR13&style=social" alt="GitHub"></a> <a href="https://github.com/sponsors/OR13"><img src="https://img.shields.io/badge/GitHub_Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="GitHub Sponsors"></a>
 
