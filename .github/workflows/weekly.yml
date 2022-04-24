@@ -65,33 +65,20 @@ jobs:
         run: |-
           echo "${{ steps.completion.outputs.text }}"
 
-  # share:
-  #   needs:
-  #     - read
-  #     - analyze
-  #   runs-on: ubuntu-latest
-  #   steps:
-  #     - name: Post Discussion
-  #       uses: or13/github-api-actions@v0.0.2
-  #       id: post
-  #       with:
-  #         access-token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-  #         owner: "OR13"
-  #         repo: "aquila"
-  #         category: "Announcements"
-  #         title: ${{ fromJSON(needs.read.outputs.json).action }}
-  #         body: |-
-  #           ### Abstract
+  update_profile:
+    needs:
+      - read
+      - analyze
+    runs-on: ubuntu-latest
+    steps:
+      - run: |-
+        echo '${{ needs.analyze.outputs.text }}' > summary.md
+      - run: |-
+        cat profile-header.md summary.md >> README.md
+      
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: GPT-3 activity summary updated.
+          file_pattern: README.md
 
-  #           ${{ fromJSON(needs.read.outputs.json).abstract }}
-
-  #           #### GPT-3 Summary
-
-  #           ```
-  #           ${{ needs.analyze.outputs.text }}
-  #           ```
-
-  #           #### Links
-
-  #           - [HTML](${{ fromJSON(needs.read.outputs.json).html_url }})
-  #           - [PDF](${{ fromJSON(needs.read.outputs.json).pdf_url }})
+            
