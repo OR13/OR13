@@ -71,14 +71,12 @@ jobs:
       - analyze
     runs-on: ubuntu-latest
     steps:
-      - run: |-
-        echo '${{ needs.analyze.outputs.text }}' > summary.md
-      - run: |-
-        cat profile-header.md summary.md >> README.md
-      
+      - name: Prepare summary
+        run: |-
+          echo '${{ needs.analyze.outputs.text }}' > summary.md
+          cat profile-header.md summary.md >> README.md
+
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: GPT-3 activity summary updated.
           file_pattern: README.md
-
-            
