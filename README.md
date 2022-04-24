@@ -7,4 +7,6 @@ _Developer — Architect_
 #### GPT-3 Summary
 
 [![Weekly](https://github.com/OR13/OR13/actions/workflows/weekly.yml/badge.svg)](https://github.com/OR13/OR13/actions/workflows/weekly.yml)
- This developer has made a lot of recent activity in the traceability-vocab, api.did.actor, and traceability-interop repositories.
+:
+
+This developer has been active in the past month on two projects, "w3c-ccg/traceability-vocab" and "transmute-industries/api.did.actor". They have made a total of 462 changes across 11 files, with 62 additions and 10302 deletions.
