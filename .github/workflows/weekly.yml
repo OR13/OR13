@@ -59,7 +59,7 @@ jobs:
 
             ${{ needs.read.outputs.text }}
 
-            \n\nTl;dr
+            Tl;dr
 
       - name: Review the Summary
         run: |-
@@ -75,7 +75,7 @@ jobs:
       - name: Prepare summary
         run: |-
           echo '${{ needs.analyze.outputs.text }}' > summary.md
-          cat profile-header.md summary.md >> README.md
+          cat profile-header.md summary.md > README.md
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
