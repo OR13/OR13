@@ -1,0 +1,93 @@
+name: Weekly
+
+on:
+  push:
+    branches:
+      - main
+  # schedule:
+  #   - cron: "0 8 * * *" # every day at 8 am
+
+jobs:
+  read:
+    runs-on: ubuntu-latest
+    outputs:
+      json: ${{ steps.read_doc.outputs.json }}
+      text: ${{ steps.read_doc.outputs.text }}
+    steps:
+      - name: Reading...
+        run: |
+          echo "Reading..."
+
+      - name: Get Activity
+        uses: or13/github-api-actions@v0.0.2
+        id: recent_activity
+        with:
+          access-token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          search: "is:merged is:pr is:public archived:false author:OR13 -user:OR13"
+          limit: 10
+
+      - name: Review the results
+        run: |-
+          echo "${{ steps.recent_activity.outputs.text }}"
+
+  # analyze:
+  #   needs:
+  #     - read
+  #   runs-on: ubuntu-latest
+  #   outputs:
+  #     json: ${{ steps.completion.outputs.json }}
+  #     text: ${{ steps.completion.outputs.text }}
+  #   steps:
+  #     - name: Analyzing...
+  #       run: |
+  #         echo "Analyzing..."
+  #         echo '${{needs.read.outputs.json}}' | jq
+  #     - name: Open AI Completion
+  #       uses: or13/open-ai@v0.0.3
+  #       id: completion
+  #       with:
+  #         api-key: ${{ secrets.OPENAI_API_KEY }}
+  #         engine: "text-davinci-002"
+  #         temperature: 0.7
+  #         max_tokens: 100
+  #         top_p: 1.0
+  #         frequency_penalty: 0.0
+  #         presence_penalty: 0.0
+  #         prompt: |-
+
+  #           Sanitize and summarize this html in a few sentences
+
+  #           ${{ needs.read.outputs.text }}
+
+  #           \n\nTl;dr
+
+  # share:
+  #   needs:
+  #     - read
+  #     - analyze
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - name: Post Discussion
+  #       uses: or13/github-api-actions@v0.0.2
+  #       id: post
+  #       with:
+  #         access-token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+  #         owner: "OR13"
+  #         repo: "aquila"
+  #         category: "Announcements"
+  #         title: ${{ fromJSON(needs.read.outputs.json).action }}
+  #         body: |-
+  #           ### Abstract
+
+  #           ${{ fromJSON(needs.read.outputs.json).abstract }}
+
+  #           #### GPT-3 Summary
+
+  #           ```
+  #           ${{ needs.analyze.outputs.text }}
+  #           ```
+
+  #           #### Links
+
+  #           - [HTML](${{ fromJSON(needs.read.outputs.json).html_url }})
+  #           - [PDF](${{ fromJSON(needs.read.outputs.json).pdf_url }})
