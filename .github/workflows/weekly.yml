@@ -59,7 +59,7 @@ jobs:
 
             ${{ needs.read.outputs.text }}
 
-            Tl;dr
+            Tl;dr:
 
       - name: Review the Summary
         run: |-

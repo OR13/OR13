@@ -1,6 +1,5 @@
 **Orie Steele** (@OR13)
 
-[![Weekly](https://github.com/OR13/OR13/actions/workflows/weekly.yml/badge.svg)](https://github.com/OR13/OR13/actions/workflows/weekly.yml)
 
 _Developer — Architect_
 
