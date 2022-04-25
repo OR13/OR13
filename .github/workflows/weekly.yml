@@ -1,9 +1,9 @@
 name: Weekly
 
 on:
-  # push:
-  #   branches:
-  #     - main
+  push:
+    branches:
+      - main
   schedule:
     - cron: "0 0 * * SUN" # every week on sunday
 
