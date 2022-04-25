@@ -5,7 +5,8 @@ on:
     branches:
       - main
   schedule:
-    - cron: "0 0 * * SUN" # every week on sunday
+    # every week on sunday
+    - cron: "0 0 * * SUN"
 
 jobs:
   read:
