@@ -7,6 +7,4 @@ _Developer — Architect_
 #### GPT-3 Summary
 
 [![Weekly](https://github.com/OR13/OR13/actions/workflows/weekly.yml/badge.svg)](https://github.com/OR13/OR13/actions/workflows/weekly.yml)
-:
-
-This developer has been active in the past month on two projects, "w3c-ccg/traceability-vocab" and "transmute-industries/api.did.actor". They have made a total of 462 changes across 11 files, with 62 additions and 10302 deletions.
+ - This developer has been active in a few different projects, most notably "mesur-io/post-quantum-signatures", "w3c-ccg/traceability-vocab", and "transmute-industries/api.did.actor". They have made a variety of changes, most notably adding support for other tags, fixing services, and updating CODEOWNERS.
