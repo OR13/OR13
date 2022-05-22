@@ -9,4 +9,4 @@ _Developer — Architect_
 [![Weekly](https://github.com/OR13/OR13/actions/workflows/weekly.yml/badge.svg)](https://github.com/OR13/OR13/actions/workflows/weekly.yml)
 :
 
-This developer recently merged a couple of changes into the "w3c-ccg/traceability-vocab" and "transmute-industries/api.did.actor" repositories. The changes include adding a schema graph example, fixing encryption, cleanup, and fixing a credential subject array bug.
+This developer has been active on a few different projects, most recently working on fixing encryption and adding support for other tags.
