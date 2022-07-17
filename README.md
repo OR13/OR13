@@ -9,4 +9,5 @@ _Developer — Architect_
 [![Weekly](https://github.com/OR13/OR13/actions/workflows/weekly.yml/badge.svg)](https://github.com/OR13/OR13/actions/workflows/weekly.yml)
 :
 
-This developer has been active in the past few days, merging in changes to several different repositories. Most of the changes seem to be around adding new functionality or fixing bugs.
+-This developer has been active on various decentralized identity projects, including work on a DID Method and on a Traceability Vocabulary.
+-Recent activity has mostly been focused on adding new features and fixing bugs.
