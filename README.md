@@ -7,4 +7,4 @@ _Developer — Architect_
 #### GPT-3 Summary
 
 [![Weekly](https://github.com/OR13/OR13/actions/workflows/weekly.yml/badge.svg)](https://github.com/OR13/OR13/actions/workflows/weekly.yml)
- - This developer has been active in a few different repositories, mostly related to W3C work. In the last few weeks they have been focused on adding and removing content, as well as some general housekeeping.
+ - This developer has been active in the last month on the repositories "transmute-industries/api.did.actor", "w3c/vc-jws-2020", and "w3c/vc-jwt". They have made a total of 12, 2, and 1 commits respectively.
