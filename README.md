@@ -7,4 +7,4 @@ _Developer — Architect_
 #### GPT-3 Summary
 
 [![Weekly](https://github.com/OR13/OR13/actions/workflows/weekly.yml/badge.svg)](https://github.com/OR13/OR13/actions/workflows/weekly.yml)
- - This developer has been active in the past month, working on various projects related to DIDs, JWKS, and VCs.
+ - This developer has been active in a few different repositories, mostly adding code or deleting files.
