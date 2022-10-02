@@ -7,4 +7,4 @@ _Developer — Architect_
 #### GPT-3 Summary
 
 [![Weekly](https://github.com/OR13/OR13/actions/workflows/weekly.yml/badge.svg)](https://github.com/OR13/OR13/actions/workflows/weekly.yml)
- - This developer has been active in a few different repositories, making small changes and additions.
+ - This developer has done a lot of work on decentralized identity, the Verifiable Credentials data model, and the W3C Verifiable Claims data model.
