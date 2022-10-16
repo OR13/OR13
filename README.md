@@ -9,4 +9,4 @@ _Developer — Architect_
 [![Weekly](https://github.com/OR13/OR13/actions/workflows/weekly.yml/badge.svg)](https://github.com/OR13/OR13/actions/workflows/weekly.yml)
 :
 
-This developer has been active on GitHub, merging 19 files on "2022-10-06T19:36:12Z" into "ietf-scitt/scitt-web", with 18 additions and 2384 deletions. They have also been active on "openwallet-foundation/architecture-task-force", merging 1 file on "2022-10-06T19:29:59Z", with 1 addition and 1 deletion.
+This developer has been active on the "w3c/vc-jwt" and "openwallet-foundation/architecture-task-force" projects, making a total of 2 merges, with 1 file changed and 6 additions made.
