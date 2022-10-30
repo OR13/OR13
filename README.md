@@ -7,4 +7,6 @@ _Developer — Architect_
 #### GPT-3 Summary
 
 [![Weekly](https://github.com/OR13/OR13/actions/workflows/weekly.yml/badge.svg)](https://github.com/OR13/OR13/actions/workflows/weekly.yml)
-: This developer has been active in the past month, working on various projects including "mesur-io/post-quantum-signatures" and "w3c/did-spec-registries". They have made a total of 3668 additions and 2990 deletions across all their merged pull requests.
+:
+
+This developer has been active on the mesur.io/post-quantum-signatures, w3c/did-spec-registries, and openwallet-foundation/architecture-task-force projects, among others. They have made a total of 3668 additions and 2990 deletions across all projects.
