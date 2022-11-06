@@ -9,4 +9,4 @@ _Developer — Architect_
 [![Weekly](https://github.com/OR13/OR13/actions/workflows/weekly.yml/badge.svg)](https://github.com/OR13/OR13/actions/workflows/weekly.yml)
 :
 
-This developer has been active on the mesur.io/post-quantum-signatures, w3c/did-spec-registries, and openwallet-foundation/architecture-task-force projects, among others. They have made a total of 3668 additions and 2990 deletions across all projects.
+This developer has been active on GitHub, with their most recent activity being a merge of the "Refactor" branch into the "transmute-industries/jsonld-to-cypher" repository on October 30th. They have also been active on the "mesur-io/post-quantum-signatures" and "w3c/did-spec-registries" repositories, amongst others.
