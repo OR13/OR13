@@ -7,6 +7,4 @@ _Developer — Architect_
 #### GPT-3 Summary
 
 [![Weekly](https://github.com/OR13/OR13/actions/workflows/weekly.yml/badge.svg)](https://github.com/OR13/OR13/actions/workflows/weekly.yml)
-:
-
-This developer has been active in a few different projects recently, including transmute-industries/vc-cose, w3c-ccg/di-eddsa-2020, and w3c/vc-jws-2020. They have made a total of 105, 1, and 2947 code changes in those projects respectively.
+ - This developer has been busy with a variety of projects, including working on a First Public Working Draft for JSON Web Signature Data Integrity, creating crypto-currencies.md and verifiable-credentials.md, and refactoring jsonld-to-cypher.
