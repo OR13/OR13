@@ -7,6 +7,4 @@ _Developer — Architect_
 #### GPT-3 Summary
 
 [![Weekly](https://github.com/OR13/OR13/actions/workflows/weekly.yml/badge.svg)](https://github.com/OR13/OR13/actions/workflows/weekly.yml)
-:
-
-This developer has been active on GitHub, with their most recent activity being on the repositories "transmute-industries/vc-cose", "w3c-ccg/di-eddsa-2020", and "w3c/vc-jws-2020". They have made a total of 105 additions and 30 deletions across all of their recent activity.
+: This person has made a lot of commits recently, most of which appear to be related to code for web development.
