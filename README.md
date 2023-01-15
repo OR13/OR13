@@ -7,4 +7,4 @@ _Developer — Architect_
 #### GPT-3 Summary
 
 [![Weekly](https://github.com/OR13/OR13/actions/workflows/weekly.yml/badge.svg)](https://github.com/OR13/OR13/actions/workflows/weekly.yml)
-: This person has made a lot of commits recently, most of which appear to be related to code for web development.
+: This developer has been active on the following projects: transmute-industries/vc-cose, w3c-ccg/di-eddsa-2020, w3c/vc-jws-2020, openwallet-foundation/architecture-task-force, transmute-industries/jsonld-to-cypher, mesur-io/post-quantum-signatures, and w3c/did-spec-registries.
