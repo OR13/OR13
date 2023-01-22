@@ -7,4 +7,6 @@ _Developer — Architect_
 #### GPT-3 Summary
 
 [![Weekly](https://github.com/OR13/OR13/actions/workflows/weekly.yml/badge.svg)](https://github.com/OR13/OR13/actions/workflows/weekly.yml)
-: This developer has been active on the following projects: transmute-industries/vc-cose, w3c-ccg/di-eddsa-2020, w3c/vc-jws-2020, openwallet-foundation/architecture-task-force, transmute-industries/jsonld-to-cypher, mesur-io/post-quantum-signatures, and w3c/did-spec-registries.
+:
+
+The developer has been active in the past month, working on projects like "w3c/vc-data-model", "transmute-industries/jsonld-to-cypher", and "w3c-ccg/di-eddsa-2020". They have made a total of 99245 additions and 1647 deletions across all projects.
