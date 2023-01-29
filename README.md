@@ -7,6 +7,4 @@ _Developer — Architect_
 #### GPT-3 Summary
 
 [![Weekly](https://github.com/OR13/OR13/actions/workflows/weekly.yml/badge.svg)](https://github.com/OR13/OR13/actions/workflows/weekly.yml)
-:
-
-The developer has been active in the past month, working on projects like "w3c/vc-data-model", "transmute-industries/jsonld-to-cypher", and "w3c-ccg/di-eddsa-2020". They have made a total of 99245 additions and 1647 deletions across all projects.
+ - This developer has been active in the development of the W3C Verifiable Credentials Data Model, JSON-LD to Cypher, and the Verifiable Credentials JWS 2020 specification. They have also been active in requesting a media type for the 1.1 version of the Verifiable Credentials JWT claim set.
