@@ -7,4 +7,6 @@ _Developer — Architect_
 #### GPT-3 Summary
 
 [![Weekly](https://github.com/OR13/OR13/actions/workflows/weekly.yml/badge.svg)](https://github.com/OR13/OR13/actions/workflows/weekly.yml)
- - This developer has been active in the development of the W3C Verifiable Credentials Data Model, JSON-LD to Cypher, and the Verifiable Credentials JWS 2020 specification. They have also been active in requesting a media type for the 1.1 version of the Verifiable Credentials JWT claim set.
+:
+
+This developer has been active in the development of the W3C Verifiable Credentials standard, adding features and making editorial updates. They have also been working on a project to convert JSON-LD to Cypher, a query language for Neo4j.
