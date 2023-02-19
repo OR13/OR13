@@ -7,6 +7,4 @@ _Developer — Architect_
 #### GPT-3 Summary
 
 [![Weekly](https://github.com/OR13/OR13/actions/workflows/weekly.yml/badge.svg)](https://github.com/OR13/OR13/actions/workflows/weekly.yml)
-:
-
-This developer has been active in the development of the W3C Verifiable Credentials standard, adding features and making editorial updates. They have also been working on a project to convert JSON-LD to Cypher, a query language for Neo4j.
+ - This developer has been active in the W3C Verifiable Credentials working group, making changes to the VC-JWT, VC-JWS, and VC-COSE specifications.
