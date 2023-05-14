@@ -7,4 +7,4 @@ _Developer — Architect_
 #### GPT-3 Summary
 
 [![Weekly](https://github.com/OR13/OR13/actions/workflows/weekly.yml/badge.svg)](https://github.com/OR13/OR13/actions/workflows/weekly.yml)
-: This developer has been recently active in the "w3c/vc-di-bbs" and "w3c/vc-jwt" repositories, making a total of 171 and 82 additions respectively. They have also been active in the "w3c-ccg/traceability-vocab" repository, making a total of 587 additions.
+ - This developer has been active recently, with a focus on the W3C VC DI BBS and Traceability Vocab repositories. They have made a total of 171, 3, 74, 4, 15, 587, 1, 1098, and 768 additions respectively in the past few days.
