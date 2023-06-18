@@ -7,4 +7,4 @@ _Developer — Architect_
 #### GPT-3 Summary
 
 [![Weekly](https://github.com/OR13/OR13/actions/workflows/weekly.yml/badge.svg)](https://github.com/OR13/OR13/actions/workflows/weekly.yml)
- - this developer has been active on the "w3c/vc-data-model", "transmute-industries/merkle-proof", and "w3c/vc-di-bbs" projects, among others. They have made a total of 1080 + 171 + 74 + 15 = 1340 additions and 11 + 3 + 112 + 1072 = 1198 deletions.
+ - This developer has been working on the "w3c/vc-data-model", "w3c/vc-jwt", and "transmute-industries/verifiable-data" projects, making a total of 57, 63, and 1 commits respectively.
