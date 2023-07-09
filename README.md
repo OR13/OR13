@@ -7,4 +7,8 @@ _Developer — Architect_
 #### GPT-3 Summary
 
 [![Weekly](https://github.com/OR13/OR13/actions/workflows/weekly.yml/badge.svg)](https://github.com/OR13/OR13/actions/workflows/weekly.yml)
- - This developer has made a lot of changes to various projects, including "Address List Feedback", "Better interfaces for detached operations", and "Add guidance on header parameters".
+
+
+-The developer recently merged a pull request related to tree algorithms into ietf-scitt/draft-steele-cose-merkle-tree-proofs
+-The developer also merged a pull request related to key discovery into w3c/vc-jwt
+-The developer also merged a pull request related to updating the MULTIBASE Reference into w3c/vc-data-integrity
