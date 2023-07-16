@@ -7,8 +7,4 @@ _Developer — Architect_
 #### GPT-3 Summary
 
 [![Weekly](https://github.com/OR13/OR13/actions/workflows/weekly.yml/badge.svg)](https://github.com/OR13/OR13/actions/workflows/weekly.yml)
-
-
--The developer recently merged a pull request related to tree algorithms into ietf-scitt/draft-steele-cose-merkle-tree-proofs
--The developer also merged a pull request related to key discovery into w3c/vc-jwt
--The developer also merged a pull request related to updating the MULTIBASE Reference into w3c/vc-data-integrity
+: This developer has been very active in the past few days, working on a variety of projects related to data modeling, API design, and tree algorithm design.
