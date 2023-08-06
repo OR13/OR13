@@ -7,4 +7,4 @@ _Developer — Architect_
 #### GPT-3 Summary
 
 [![Weekly](https://github.com/OR13/OR13/actions/workflows/weekly.yml/badge.svg)](https://github.com/OR13/OR13/actions/workflows/weekly.yml)
-: This developer has been active in the past month, mostly on the "w3c/vc-jose-cose" repository, with some activity on "w3c/vc-data-model" and "ietf-scitt/draft-steele-cose-merkle-tree-proofs". They have made a total of 44 additions and 33 deletions in 2 files on "w3c/vc-jose-cose".
+ - This developer has been active on the "selfissued/draft-jones-cose-typ-header-parameter" and "w3c/vc-jose-cose" repositories, making a total of 2 commits, 1 addition, and 1 deletion.
