@@ -7,4 +7,4 @@ _Developer — Architect_
 #### GPT-3 Summary
 
 [![Weekly](https://github.com/OR13/OR13/actions/workflows/weekly.yml/badge.svg)](https://github.com/OR13/OR13/actions/workflows/weekly.yml)
- - This developer has been active on the "selfissued/draft-jones-cose-typ-header-parameter" and "w3c/vc-jose-cose" repositories, making a total of 2 commits, 1 addition, and 1 deletion.
+: This developer has been working on adding registered claims to the v2 context, as well as making updates to the w3c/vc-jose-cose repository.
