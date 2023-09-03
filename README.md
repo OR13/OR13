@@ -9,4 +9,6 @@ _Developer — Architect_
 [![Weekly](https://github.com/OR13/OR13/actions/workflows/weekly.yml/badge.svg)](https://github.com/OR13/OR13/actions/workflows/weekly.yml)
 :
 
-This developer has been active in the last month, with 9 commits (7 of which were merged). They have been working on the w3c/vc-jose-cose and w3c/vc-data-model repositories, adding registered claim names and fixes examples.
+-This developer has been active on the "w3c/vc-jose-cose" and "w3c/vc-data-model" repositories,
+-Merging in changes related to registered claims, wallets/clients, and editorial cleanups,
+-With a focus on the "v2 context" file.
