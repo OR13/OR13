@@ -7,8 +7,4 @@ _Developer — Architect_
 #### GPT-3 Summary
 
 [![Weekly](https://github.com/OR13/OR13/actions/workflows/weekly.yml/badge.svg)](https://github.com/OR13/OR13/actions/workflows/weekly.yml)
-:
-
--This developer has been active on the "w3c/vc-jose-cose" and "w3c/vc-data-model" repositories,
--Merging in changes related to registered claims, wallets/clients, and editorial cleanups,
--With a focus on the "v2 context" file.
+ - This developer has been active in the past month, with most activity in the last week. They have made changes to various files, with a focus on the vc-jose-cose and vc-data-model repositories. Most of their activity has been in the form of merging pull requests.
