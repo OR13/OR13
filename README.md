@@ -9,4 +9,4 @@ _Developer — Architect_
 [![Weekly](https://github.com/OR13/OR13/actions/workflows/weekly.yml/badge.svg)](https://github.com/OR13/OR13/actions/workflows/weekly.yml)
 :
 
-This developer has been busy lately with various projects related to the World Wide Web Consortium (W3C), the Internet Engineering Task Force (IETF), and the Cybersecurity and Infrastructure Security Agency (CISA). Some of their recent activity includes merging pull requests related to editorial changes, refactoring code, and adding/removing features.
+This developer has been active in the past month with updates to the transmute-industries/cose and w3c/vc-jose-cose projects, including adding guidance on serialization and profile, refactoring prior to IETF 118, and updates for IETF 118.
