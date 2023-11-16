@@ -7,6 +7,4 @@ _Developer — Architect_
 #### Activity Summary powered by [Open AI](https://openai.com/)
 
 [![Weekly](https://github.com/OR13/OR13/actions/workflows/weekly.yml/badge.svg)](https://github.com/OR13/OR13/actions/workflows/weekly.yml)
-:
-
-This developer has been working on the "w3c/vc-data-model" project, adding a comparison to the NIST definition, as well as the "transmute-industries/cose" project, adding HPKE examples and updating the scitt registry related diagnostics.
+: This developer has been very active in the past month, working on various projects related to cose, merkle tree proofs, and SCITT architecture. They have made many additions and deletions to various files, and have merged a total of 29 pull requests.
