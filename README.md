@@ -9,4 +9,4 @@ _Developer — Architect_
 [![Weekly](https://github.com/OR13/OR13/actions/workflows/weekly.yml/badge.svg)](https://github.com/OR13/OR13/actions/workflows/weekly.yml)
 :
 
-This developer has been active in the past month on the projects "transmute-industries/cose", "w3c/vc-jose-cose", and "cose-wg/draft-ietf-cose-merkle-tree-proofs". They have made a total of 764 commits, with 2273 additions and 387 deletions.
+This developer has been working on the "w3c/vc-data-model" project, adding a comparison to the NIST definition, as well as the "transmute-industries/cose" project, adding HPKE examples and updating the scitt registry related diagnostics.
