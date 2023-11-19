@@ -7,4 +7,6 @@ _Developer — Architect_
 #### Activity Summary powered by [Open AI](https://openai.com/)
 
 [![Weekly](https://github.com/OR13/OR13/actions/workflows/weekly.yml/badge.svg)](https://github.com/OR13/OR13/actions/workflows/weekly.yml)
-: This developer has been very active in the past month, working on various projects related to cose, merkle tree proofs, and SCITT architecture. They have made many additions and deletions to various files, and have merged a total of 29 pull requests.
+:
+
+This developer has been active in a few different projects recently, including "scitt-community/scitt-examples", "w3c/vc-data-model", and "transmute-industries/cose". They have made a total of 47, 1, and 29 file changes respectively, with 702, 4, and 994 additions, and 118, 0, and 104 deletions.
