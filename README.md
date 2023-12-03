@@ -7,4 +7,6 @@ _Developer — Architect_
 #### Activity Summary powered by [Open AI](https://openai.com/)
 
 [![Weekly](https://github.com/OR13/OR13/actions/workflows/weekly.yml/badge.svg)](https://github.com/OR13/OR13/actions/workflows/weekly.yml)
-: This developer has been working on the "scitt-community/scitt-examples" repository, adding examples and updating the registry structure. They have also been working on the "transmute-industries/cose" repository, adding HPKE examples and updating the scitt registry related diagnostics.
+:
+
+This developer has been working on adding examples to the "scitt-community/scitt-examples" repository, as well as making updates and improvements to the "transmute-industries/cose" repository.
