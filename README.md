@@ -7,4 +7,4 @@ _Developer — Architect_
 #### Activity Summary powered by [Open AI](https://openai.com/)
 
 [![Weekly](https://github.com/OR13/OR13/actions/workflows/weekly.yml/badge.svg)](https://github.com/OR13/OR13/actions/workflows/weekly.yml)
- - This developer is active in the SCRAPI, COSE, and SPICE working groups, and has recently made substantial contributions to drafts in each of those groups.
+ - This developer has been removing themselves as an editor from various projects, as well as making small updates and additions to other projects.
