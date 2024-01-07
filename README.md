@@ -7,4 +7,4 @@ _Developer — Architect_
 #### Activity Summary powered by [Open AI](https://openai.com/)
 
 [![Weekly](https://github.com/OR13/OR13/actions/workflows/weekly.yml/badge.svg)](https://github.com/OR13/OR13/actions/workflows/weekly.yml)
- - This developer has been removing themselves as an editor from various projects, as well as making small updates and additions to other projects.
+ - This developer has been active in the IETF, W3C, and SCITT working groups, and has recently been working on drafts for the SCITT architecture and the TRANSMUTE industry Spice charter.
